@@ -1,0 +1,4 @@
+TUGAS 2 NO 2 yang di tulis hanya
+- file welcome.html semua
+- file mycss.css semua
+- file kesimpulan.txt semua

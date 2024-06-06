@@ -1,0 +1,8 @@
+Setelah saya jalankan dan amati ternyata dalam 1 baris terdapat beberapa gaya style dan selector
+jika dalam 1 baris terdapat style inline kemudian dia memiliki selector berupa
+class dan id maka yang di tampilkan pada halaman web adalah yang style inline
+nya, dan jika dalam 1 baris ia memiliki 2 jenis selector yaitu class dan id maka
+yang di dahulukan adalah yang selector id seperti tulisan "The Inspiring University" class
+nya berwarna kuning sedangkan id nya berwarna hijau maka yang akan di tampilkan adalah
+yang berwarna hijau. Jadi saya simpulkan style dan selector ini memiliki tingkat prioritas nya
+sendiri sendiri
